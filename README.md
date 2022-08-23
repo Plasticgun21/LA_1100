@@ -1,12 +1,12 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+
+Jeanneret Winsky
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   |                                                              |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,16 +14,17 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich muss einen Random Number Generator programmieren.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 1    |    muss         |  FA  | Als ein Informatiker möchte ich, das Programm korrekt programieren, damit es korrekt funtioniert. |
+| 2    |    kann         |  RA  | Als Informatiker möchte ich, dass das Programm schön aussieht, damit es nicht hässilch aussieht. |                                   
+| 3    |    kann         |  FA  | Als Spieler möchte ich, die Zahl herrausfinden, damit ich gewinnen kann. |                                    
+| 4    |    muss         |  FA  | Als Infomatiker möchte ich, das die Zahl Random ist, damit es  nicht zu einfach ist. |                               
+| 5    |    muss         |  QA  | Als Spieler möchte ich, dass möchte ich wissen ob die Zahl richtig oder falsch ist, damit ich gewinnen kann. |                                   
 
 ### 1.3 Testfälle
 
