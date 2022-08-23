@@ -6,8 +6,8 @@ Jeanneret Winsky
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.22 | 0.0.1   | User Stories gemacht.                                                               |
-|       | 0.0.2     |                                                              |
+| 23.08.22 | 0.0.1   | User Stories gemacht.                                     |
+| 23.08.22 | 0.0.2   | Testfälle fast fertig geschrieben                         |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -28,10 +28,12 @@ Ich muss einen Random Number Generator programmieren.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage     | Eingabe | Erwartete Ausgabe |
+| TC-№ | Ausgangslage| Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm startert|         |                   |
-| ...  |              |         |                   |
+| 1.1  | Programm wird gestartet | Drückt auf Start | Programm startet |
+| 1.2  | Programm wählt eine Random Zahl und speichert sie ab | Programm macht es von allein | Eine Random Zahl wurde vom Programm gewählt wird abgespeichert |         
+| 1.3  | Spieler gibt zahl ein | In "Zahl Eingeben" die gewünschte Zahl eingeben |
+| 1.4  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
