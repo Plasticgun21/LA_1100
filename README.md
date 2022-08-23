@@ -6,8 +6,8 @@ Jeanneret Winsky
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |                                                              |
-|       | ...     |                                                              |
+| 23.08.22 | 0.0.1   | User Stories gemacht.                                                               |
+|       | 0.0.2     |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -36,6 +36,9 @@ Ich muss einen Random Number Generator programmieren.
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+
+![Screenshot 2022-08-23 111458](https://user-images.githubusercontent.com/110892742/186120816-e21e458a-f17e-45a7-835a-4efdaebed1b6.png)
+
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
