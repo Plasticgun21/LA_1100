@@ -7,7 +7,8 @@ Jeanneret Winsky
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.22 | 0.0.1   | User Stories gemacht.                                     |
-| 23.08.22 | 0.0.2   | Testfälle fast fertig geschrieben                         |
+| 23.08.22 | 0.0.2   | Testfälle fast fertig geschrieben.                        |
+| 30.08.22 | 0.0.3   | Testfälle fertig.                                         |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -32,10 +33,9 @@ Ich muss einen Random Number Generator programmieren.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Programm wird gestartet | Drückt auf Start | Programm startet |
 | 1.2  | Programm wählt eine Random Zahl und speichert sie ab | Programm macht es von allein | Eine Random Zahl wurde vom Programm gewählt wird abgespeichert |         
-| 1.3  | Spieler gibt zahl ein | In "Zahl Eingeben" die gewünschte Zahl eingeben |
-| 1.4  |
+| 1.3  | Spieler gibt zahl ein | In "Zahl Eingeben" die gewünschte Zahl eingeben | Programm sieht ob es korrekte zahl ist und antwortet darauf |
+| 1.4  | Spieler gibt die korrekte zahl ein | In "Zahl Eingeben" die gewünschte Zahl eingeben | Programm zeigt: " Sie haben gewonnen! " | 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -46,14 +46,15 @@ Ich muss einen Random Number Generator programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |23.8.22|  Luca J.W | User Stories fertig | 45 Min.|
+| 1.B  |30.8.22|  Luca J.W | Testfälle fertig    | 20 min.|
 
-Total: 
+Total: Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
+       Die Testfälle helfen mir, zu sehen wie ich die gewünschte Ausgabe bekomme.
+       Das Diagramm zeigt
+   
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
