@@ -50,8 +50,10 @@ Ich muss einen Random Number Generator programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |23.8.22|  Luca J.W | User Stories fertig | 45 Min.|
-| 1.B  |30.8.22|  Luca J.W | Testfälle fertig    | 20 min.|
+| 1.A  |23.8.22|  Luca J.W | User Stories schreiben | 45 min.|
+| 1.B  |23.8.22|  Luca J.W | Testfälle schreiben    | 20 min.|
+| 1.C  |30.8.22|  Luca J.W | Diagramm machen     | 35 min.|
+| 1.D  |30.8.22|  Luca J.W | Programm codieren   |120.min.| 
 
 Total: Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
        Die Testfälle helfen mir, zu sehen wie ich die gewünschte Ausgabe bekomme.
@@ -68,10 +70,9 @@ Ich würde gern das Programm für das RNG heute fertig gechrieben haben.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |30.8.22| Luca J.W  |   120 min     |  100 min          |
-| 1.B  ||           |               |                   |
+| 1.D  |30.8.22| Luca J.W  |   120 min     |  100 min          |
+|      |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
