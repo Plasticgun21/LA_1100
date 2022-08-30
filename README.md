@@ -6,9 +6,13 @@ Jeanneret Winsky
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.22 | 0.0.1   | User Stories gemacht.                                     |
-| 23.08.22 | 0.0.2   | Testfälle fast fertig geschrieben.                        |
-| 30.08.22 | 0.0.3   | Testfälle fertig.                                         |
+| 23.08.22 | 0.0.1| User Stories gemacht.                                        |
+| 23.08.22 | 0.0.2| Testfälle fast fertig geschrieben.                           |
+| 30.08.22 | 0.0.3| Testfälle fertig.                                            |
+| 30.08.22 | 0.0.4| Diagramm fertig gemacht.                                     |
+| 30.08.22 | 0.0.5| Das Planen wurde begonnen.                                   |
+| 30.08.22 | 0.0.6| Die Entscheidung wurde gemacht.                              |
+| 30.08.22 | 0.1.0| Das Programmieren von der RNG fertig codiert.                |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -64,8 +68,8 @@ Ich würde gern das Programm für das RNG heute fertig gechrieben haben.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |30.8.22| Luca J.W  |   120 min     |                   |
-| ...  |       |           |               |                   |
+| 1.A  |30.8.22| Luca J.W  |   120 min     |  100 min          |
+| 1.B  ||           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
