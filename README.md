@@ -33,7 +33,7 @@ Ich muss einen Random Number Generator programmieren.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage| Eingabe | Erwartete Ausgabe |
+| TC-№ |  Ausgangslage| Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Programm wird gestartet | Drückt auf Start | Programm startet |
 | 1.2  | Programm wählt eine Random Zahl und speichert sie ab | Programm macht es von allein | Eine Random Zahl wurde vom Programm gewählt wird abgespeichert |         
