@@ -51,14 +51,14 @@ Ich muss einen Random Number Generator programmieren.
 
 Total: Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
        Die Testfälle helfen mir, zu sehen wie ich die gewünschte Ausgabe bekomme.
-       Das Diagramm zeigt
+       Das Diagramm zeigt wie der Algorithmus aussieht den ich brauch.
    
 
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich würde gern das Programm für das RNG heute fertig gechrieben haben.
 
 ## 4 Realisieren
 
