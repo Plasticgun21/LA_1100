@@ -50,10 +50,14 @@ Ich muss einen Random Number Generator programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |23.8.22|  Luca J.W | User Stories schreiben | 45 min.|
-| 1.B  |23.8.22|  Luca J.W | Testfälle schreiben    | 20 min.|
-| 1.C  |30.8.22|  Luca J.W | Diagramm machen     | 35 min.|
-| 1.D  |30.8.22|  Luca J.W | Programm codieren   |120.min.| 
+| 1.A  |23.8.22|  Luca J.W | User Stories schreiben. | 45 min.|
+| 1.B  |23.8.22|  Luca J.W | Testfälle schreiben.    | 20 min.|
+| 1.C  |23.8.22|  Luca J.W | Diagramm machen.     | 35 min.|
+| 2.A  |30.8.22|  Luca J.W | Zufällig generierte Zahl zwischen 1 und 100 erstellen.   | 40 min.| 
+| 2.B  |30.8.22|  Luca J.W | Programm soll sehen ob die Zahl grösser oder kleiner ist. | 50 min.|  
+| 2.C  |30.8.22|  Luca J.W | Programm soll zeigen ob Zahl richtig ist. | 25 min.|
+| 2.D  |30.8.22|  Luca J.W | Programm fragt den Spieler ob er nochmal spielen will. | 30 min. |
+
 
 Total: Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
        Die Testfälle helfen mir, zu sehen wie ich die gewünschte Ausgabe bekomme.
@@ -70,8 +74,10 @@ Ich würde gern das Programm für das RNG heute fertig gechrieben haben.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.D  |30.8.22| Luca J.W  |   120 min     |  100 min          |
-|      |       |           |               |                   |
+|  2.C |30.8.22| Luca J.W  |    40 min.    |      30 min.      |
+|  2.B |30.8.22| Luca J.W  |    50 min.    |      60 min.      |
+|  2.C |30.8.22| Luca J.W  |    25 min.    |      25 min.      |
+|  2.D |30.8.22| Luca J.W  |    30 min.    |      40 min.      |
 
 
 ## 5 Kontrollieren
