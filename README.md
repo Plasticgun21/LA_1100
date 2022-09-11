@@ -35,11 +35,11 @@ Ich muss einen Random Number Generator programmieren.
 
 | TC-№ |  Ausgangslage| Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm wird gestartet | Drückt auf Start | Programm startet |
-| 1.2  | Programm wählt eine Random Zahl und speichert sie ab | Programm macht es von allein | Eine Random Zahl wurde vom Programm gewählt wird abgespeichert |         
-| 1.3  | Spieler gibt zahl ein | In "Zahl Eingeben" die gewünschte Zahl eingeben | Programm sieht ob es korrekte zahl ist und antwortet darauf |
-| 1.4  | Spieler gibt die korrekte zahl ein | In "Zahl Eingeben" die gewünschte Zahl eingeben | Programm zeigt: " Sie haben gewonnen! " | 
-
+| 1.1  | Programm wird gestartet und Zahl wird generiert. | Das Programm wurde gestartet | Geben Sie Ihre gewünschte Zahl ein. |
+| 2.1  | Programm ist am laufen und Zahl ist gespeichert. | 50 | Zahl zu Gross.  |         
+| 3.1  | Programm ist am laufen und Zahl wurde gefunden. | Enter | Sie haben die Zahl gefunden. |
+| 4.1  | Programm ist am laufen und Zahl wurde gefunden. | n | Wahl ob man nochmal spielen will. | 
+| 5.1  | Programm generiert keine neue Zahl und schliesst. | Enter | Ende des Programms |
 
 ### 1.4 Diagramme
 
