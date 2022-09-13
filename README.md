@@ -63,7 +63,7 @@ Ich muss einen Random Number Generator programmieren.
 | 2.F  | 6.9.22|  Luca J.W | Programm zeigt an wie viele Versuche man hatte. | 60 min. |
 
 
-Total: Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
+#Total:# Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
        Die Testfälle helfen mir, zu sehen wie ich die gewünschte Ausgabe bekomme.
        Das Diagramm zeigt wie der Algorithmus aussieht den ich brauch.
    
@@ -98,16 +98,16 @@ Total: Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss
 | 5.1  |13.9.22|   true       |Luca J.W|
 | 6.1  |13.9.22|   true       |Luca J.W|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+#Fazit:# Das Problem ist wenn man etwas nicht eine Zahl imputiert schliesst das Programm. Dies sollte eigentlich sein, nur das es zu schnell geht.
+Es sollte eigentlich ein Satz stehen aber der steht nicht. Es ist ein Minimal Problem weil es eigentlich was es machen soll und man sollte nicht so dumm sein um Zahlen von 1 bis 100 einzugeben.
 
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    | Mann gibt eine sehr hohe Zahl ein.|10000000000000000000000000| Zahl zu hoch|fehlermeldung und Programm stürzt ab.|
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
