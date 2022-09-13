@@ -63,7 +63,7 @@ Ich muss einen Random Number Generator programmieren.
 | 2.F  | 6.9.22|  Luca J.W | Programm zeigt an wie viele Versuche man hatte. | 60 min. |
 
 
-#Total:# Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
+#Total# Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss.
        Die Testfälle helfen mir, zu sehen wie ich die gewünschte Ausgabe bekomme.
        Das Diagramm zeigt wie der Algorithmus aussieht den ich brauch.
    
@@ -98,7 +98,7 @@ Ich muss einen Random Number Generator programmieren.
 | 5.1  |13.9.22|   true       |Luca J.W|
 | 6.1  |13.9.22|   true       |Luca J.W|
 
-#Fazit:# Das Problem ist wenn man etwas nicht eine Zahl imputiert schliesst das Programm. Dies sollte eigentlich sein, nur das es zu schnell geht.
+#Fazit# Das Problem ist wenn man etwas nicht eine Zahl imputiert schliesst das Programm. Dies sollte eigentlich sein, nur das es zu schnell geht.
 Es sollte eigentlich ein Satz stehen aber der steht nicht. Es ist ein Minimal Problem weil es eigentlich was es machen soll und man sollte nicht so dumm sein um Zahlen von 1 bis 100 einzugeben.
 
 ### 5.2 Exploratives Testen
