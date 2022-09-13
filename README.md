@@ -111,4 +111,3 @@ Es sollte eigentlich ein Satz stehen aber der steht nicht. Es ist ein Minimal Pr
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
