@@ -38,7 +38,7 @@ Ich muss einen Random Number Generator programmieren.
 | 1.1  | Programm wird gestartet und Zahl wird generiert. | Das Programm wurde gestartet | Geben Sie Ihre gewünschte Zahl ein. |
 | 2.1  | Programm ist am laufen, schaut ob es eine Zahl ist und Zahl ist gespeichert. | 50 | Zahl zu Gross.  | 
 | 3.1  | Programm ist am laufen und Zahl wurde gefunden. | Enter | Sie haben die Zahl gefunden. |
-| 4.1  | Programm ist am laufen und Zahl wurde gefunden. | Enter | Sie hatten 2 versüche. |
+| 4.1  | Programm ist am laufen, zeigt an wie viele Versüche man hatte und Zahl wurde gefunden. | Enter | Sie hatten 2 versüche. |
 | 5.1  | Programm ist am laufen und Zahl wurde gefunden. | n | Wahl ob man nochmal spielen will. | 
 | 6.1  | Programm generiert keine neue Zahl und schliesst. | Enter | Ende des Programms |
 
@@ -92,11 +92,11 @@ Total: Die Userstories helfen mir, was ich in welche Rolle machen kann oder muss
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |13.9.22|   true   |Luca J.W|
-| 2.1  |13.9.22|          |Luca J.W|
-| 3.1  |13.9.22|          |Luca J.W|
-| 4.1  |13.9.22|          |Luca J.W|
-| 5.1  |13.9.22|          |Luca J.W|
-| 6.1  |13.9.22|          |Luca J.W|
+| 2.1  |13.9.22|   true (Aber das mit ob es eine Zahl ist funktioniert nicht ganz.) |Luca J.W|
+| 3.1  |13.9.22|   true         |Luca J.W|
+| 4.1  |13.9.22|   false       |Luca J.W|
+| 5.1  |13.9.22|   true       |Luca J.W|
+| 6.1  |13.9.22|   true       |Luca J.W|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
